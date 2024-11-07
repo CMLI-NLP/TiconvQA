@@ -1,4 +1,4 @@
-# TiconvQA：Construction of high-quality Tibetan language dataset for conversational reading comprehension
+# TiconvQA：Construction of high-quality Tibetan language dataset for conversational reading comprehension(Dawa et al., CCL 2021)
 
 TiconvQA（Tibetan Conversational Question Answering）是一个面向文本理解的藏文多轮对话数据集，其中包含了20,358个对话问答回合，涵盖地理、人物和新闻等三个不同领域的内容。每个对话回合都包括一个问题、一个答案以及相关的证据文本。
 
