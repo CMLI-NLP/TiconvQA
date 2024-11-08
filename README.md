@@ -29,3 +29,7 @@ TiconvQA（Tibetan Conversational Question Answering）是一个面向文本理�
 ## 联系方式
 
 电子邮箱：tracy.yuan.sun@gmail.com
+
+## 免责申明
+
+本数据集/模型仅供学术研究使用。禁止用于任何商业或不道德的目的。
